@@ -192,7 +192,7 @@
     .burger{
         position: absolute;
         cursor: pointer;
-        display: none;
+        display: flex;
         right: 5% ;
         top: 15px;
     }
